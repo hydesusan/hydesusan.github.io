@@ -1,0 +1,13 @@
+title: Susan D. Hyde
+description: Professor of Political Science, University of California, Berkeley
+theme: minima
+baseurl: "/hyde-site"
+url: "https://hydesusan.github.io"
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+  - teaching.md
+  - phd-students.md
+  - contact.md

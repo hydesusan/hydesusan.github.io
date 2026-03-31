@@ -14,4 +14,4 @@ nav_order: 6
 210 Social Science Building #1950
 Berkeley, CA 94720-1950
 
-**Office Hours:** [Schedule an appointment](https://calendar.google.com/calendar/selfsched)
+**Office Hours:** [Schedule an appointment](https://calendar.app.google/gFZuWBw7kuj1n2qK6) (UC Berkeley students)

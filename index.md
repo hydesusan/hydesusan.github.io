@@ -4,6 +4,8 @@ title: Home
 nav_order: 1
 ---
 
+<img src="{{ site.baseurl }}/assets/headshot.jpg" alt="Susan D. Hyde" style="float: right; margin: 0 0 15px 20px; width: 180px;">
+
 # Susan D. Hyde
 
 **Robson Professor of Political Science, University of California, Berkeley**

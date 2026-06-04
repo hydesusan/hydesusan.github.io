@@ -10,6 +10,8 @@ redirect_from:
 
 I study threats to democracy, the role of regime type in international affairs, and international influences on the domestic politics of sovereign states. My research spans election observation, election fraud, and democracy promotion.
 
+[**Book office hours** (UC Berkeley students)](https://calendar.app.google/UjP8Q53UPyMX7Lyj6){: .btn .btn--primary}
+
 I hold the Kernan Robson Professorship in the [Travers Department of Political Science](https://polisci.berkeley.edu/) at the University of California, Berkeley, where I co-direct the [Institute of International Studies](https://iis.berkeley.edu/). I previously served as chair of the Department of Political Science (2021–2024).
 
 I have served as an international election observer in Afghanistan, Albania, Indonesia, Liberia, Nicaragua, Pakistan, and Venezuela, working with organizations including the Carter Center and the National Democratic Institute. My 2011 book, [*The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm*](https://www.cornellpress.cornell.edu/book/9780801477867/the-pseudo-democrats-dilemma/) (Cornell University Press), examines how international election monitoring developed as a global practice. It received the 2012 Best Book Award from APSA's Comparative Democratization section and the Chadwick Alger Prize from the International Studies Association.

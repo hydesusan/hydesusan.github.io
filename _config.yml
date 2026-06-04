@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          :
+  bluesky          : "sdhyde.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -73,7 +73,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "dshyde"
+  twitter          :
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

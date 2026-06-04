@@ -22,7 +22,7 @@ author_profile: true
 
 <div class="phd-grid">
 
-<div class="phd-card"><img src="/images/profile.png" alt="Rekai Rusinga"><div class="phd-meta"><span class="phd-name"><a href="https://ps.ucdavis.edu/people/rekai-rusinga">Rekai Rusinga</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Davis</span></div></div>
+<div class="phd-card"><img src="/images/students/Rusinga.jpg" alt="Rekai Rusinga"><div class="phd-meta"><span class="phd-name"><a href="https://ps.ucdavis.edu/people/rekai-rusinga">Rekai Rusinga</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Davis</span></div></div>
 
 <div class="phd-card"><img src="/images/students/Bonaventura.jpg" alt="Leo Di Bonaventura"><div class="phd-meta"><span class="phd-name"><a href="https://polisci.berkeley.edu/people/person/leo-di-bonaventura">Leo Di Bonaventura</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span></div></div>
 

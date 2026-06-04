@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Susan D. Hyde**
-Robson Professor of Political Science
+Kernan Robson Professor of Political Science
 Travers Department of Political Science
 University of California, Berkeley
 

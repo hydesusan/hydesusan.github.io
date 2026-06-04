@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Susan D. Hyde"
 title_separator          : "-"
 name                     : &name "Susan D. Hyde"
-description              : &description "Robson Professor of Political Science, University of California, Berkeley"
+description              : &description "Kernan Robson Professor of Political Science, University of California, Berkeley"
 url                      : https://hydesusan.github.io
 baseurl                  : ""
 repository               : "hydesusan/hydesusan.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "headshot.jpg"
   name             : "Susan D. Hyde"
   pronouns         :
-  bio              : "Robson Professor of Political Science, UC Berkeley. I study threats to democracy, regime type in international affairs, and international influences on the domestic politics of sovereign states."
+  bio              : "Kernan Robson Professor of Political Science, UC Berkeley. I study threats to democracy, regime type in international affairs, and international influences on the domestic politics of sovereign states."
   location         : "Berkeley, California"
   employer         : "University of California, Berkeley"
   uri              :

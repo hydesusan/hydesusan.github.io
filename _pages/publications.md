@@ -18,9 +18,9 @@ For the most complete and current list, see my [Google Scholar profile](https://
 
 <div class="book-grid">
 
-<div class="book-card"><img src="/images/research/res-03.jpg" alt="The Pseudo-Democrat's Dilemma"><div class="book-meta"><strong><a href="https://www.cornellpress.cornell.edu/book/9780801477867/the-pseudo-democrats-dilemma/">The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm</a></strong><br>Susan D. Hyde<br>Cornell University Press, 2011</div></div>
-
 <div class="book-card"><img src="/images/research/res-01.jpg" alt="Information, Accountability, and Cumulative Learning"><div class="book-meta"><strong>Information, Accountability, and Cumulative Learning: Lessons from Metaketa I</strong><br>Thad Dunning, Guy Grossman, Macartan Humphreys, Susan D. Hyde, Craig McIntosh, and Gareth Nellis, eds.<br>Cambridge University Press, 2019</div></div>
+
+<div class="book-card"><img src="/images/research/res-03.jpg" alt="The Pseudo-Democrat's Dilemma"><div class="book-meta"><strong><a href="https://www.cornellpress.cornell.edu/book/9780801477867/the-pseudo-democrats-dilemma/">The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm</a></strong><br>Susan D. Hyde<br>Cornell University Press, 2011</div></div>
 
 <div class="book-card"><img src="/images/research/res-04.jpg" alt="Election Fraud"><div class="book-meta"><strong>Election Fraud: Detecting and Deterring Electoral Manipulation</strong><br>R. Michael Alvarez, Thad E. Hall, and Susan D. Hyde, eds.<br>Brookings Institution Press, 2008</div></div>
 
@@ -36,8 +36,8 @@ For the most complete and current list, see my [Google Scholar profile](https://
 ## Published and Forthcoming Articles
 
 <ul class="pub-list">
-<li><a href="https://doi.org/10.1177/00104140221139387"><strong>Promoting Democracy Under Electoral Authoritarianism: Evidence from Cambodia</strong></a>, with Emily Lamb and Oren Samet. <em>Comparative Political Studies</em> (2022).</li>
 <li><a href="https://doi.org/10.1093/isr/viad019"><strong>The Forum: Global Challenges to Democracy? Perspectives on Democratic Backsliding</strong></a>, with Larry M. Bartels, Ursula E. Daxecker, Staffan I. Lindberg, and Irfan Nooruddin. <em>International Studies Review</em> 25:2 (2023).</li>
+<li><a href="https://doi.org/10.1177/00104140221139387"><strong>Promoting Democracy Under Electoral Authoritarianism: Evidence from Cambodia</strong></a>, with Emily Lamb and Oren Samet. <em>Comparative Political Studies</em> (2022).</li>
 <li><strong>Democracy's Backsliding in the International Environment</strong>. <em>Science</em> 369:6508 (2020): 1192–1196.</li>
 <li><strong>Recapturing Regime Type in International Relations: Leaders, Institutions, and Agency Space</strong>, with Elizabeth N. Saunders. <em>International Organization</em> (2020).</li>
 <li><a href="https://advances.sciencemag.org/content/5/7/eaaw2612"><strong>Voter Information Campaigns and Political Accountability: Cumulative Findings from a Preregistered Meta-Analysis of Coordinated Trials</strong></a>, with Thad Dunning, Guy Grossman, Macartan Humphreys, Craig McIntosh, Gareth Nellis, et al. <em>Science Advances</em> 5:7 (2019).</li>
@@ -60,9 +60,9 @@ For the most complete and current list, see my [Google Scholar profile](https://
 ## Other Writing
 
 <ul class="pub-list">
-<li><strong>Follow the Leader</strong>, with Elizabeth N. Saunders. <em>Journal of Democracy</em> 33:4 (2022): 165–168.</li>
+<li><a href="https://www.journalofdemocracy.org/articles/debate-follow-the-leader/"><strong>Follow the Leader</strong></a>, with Elizabeth N. Saunders. <em>Journal of Democracy</em> 33:4 (2022): 164–168.</li>
 <li><strong>Our Democracy, Though Resilient, Isn't Unbreakable</strong>, with Elizabeth N. Saunders. <em>The New York Times</em>, December 16, 2020.</li>
 <li><strong>How Trump's Destructive Behavior Emboldens Authoritarian Leaders Abroad</strong>. <em>Los Angeles Times</em>, November 25, 2020.</li>
 <li><strong>The Unsubtle Art of Real Election Fraud</strong>. <em>The Wall Street Journal</em>, November 14, 2020.</li>
-<li><strong>The Limits of Election Monitoring: What Independent Observation Can (and Can't) Do</strong>, with Judith G. Kelley. <em>Foreign Affairs</em>, June 28, 2011.</li>
+<li><a href="https://www.foreignaffairs.com/articles/middle-east/2011-06-28/limits-election-monitoring"><strong>The Limits of Election Monitoring: What Independent Observation Can (and Can't) Do</strong></a>, with Judith G. Kelley. <em>Foreign Affairs</em>, June 28, 2011.</li>
 </ul>

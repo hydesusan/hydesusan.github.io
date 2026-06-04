@@ -1,0 +1,22 @@
+# The order of the links in the header of the website.
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "PhD Students"
+    url: /phd-students/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Links"
+    url: /links/
+
+  - title: "Letters"
+    url: /letters/

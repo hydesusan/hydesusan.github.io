@@ -10,6 +10,7 @@ author_profile: true
 - PhD Seminar: International Relations and Domestic Politics
 - PhD Seminar: Theories of International Relations
 - PhD Seminar: Research & Writing
+- Undergraduate Lecture: Introduction to International Relations
 - Undergraduate Lecture: International Organizations
 
 ## Yale University

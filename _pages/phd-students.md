@@ -22,21 +22,21 @@ author_profile: true
 
 <div class="phd-grid">
 
-<div class="phd-card"><img src="/images/students/Stephenson.jpg" alt="Alexander Stephenson"><div class="phd-meta"><span class="phd-name"><a href="https://www.alexstephenson.me/">Alexander Stephenson</a></span><br><span class="phd-role">Dissertation Committee Co-Chair, University of California, Berkeley</span><br><span class="phd-diss">Essays on Police Reform</span></div></div>
+<div class="phd-card"><img src="/images/profile.png" alt="Rekai Rusinga"><div class="phd-meta"><span class="phd-name"><a href="https://ps.ucdavis.edu/people/rekai-rusinga">Rekai Rusinga</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Davis</span></div></div>
 
-<div class="phd-card"><img src="/images/students/Braley.jpg" alt="Alia Braley"><div class="phd-meta"><span class="phd-name"><a href="https://www.aliabraley.net/">Alia Braley</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Berkeley</span></div></div>
-
-<div class="phd-card"><img src="/images/students/Barker.jpg" alt="Jennie Barker"><div class="phd-meta"><span class="phd-name"><a href="https://iis.berkeley.edu/people/jennie-barker">Jennie Barker</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Standing Up for Democracy? Democracy Promotion under Emerging Multipolarity</span></div></div>
-
-<div class="phd-card"><img src="/images/students/Barden-Hair.jpg" alt="Lauren Barden-Hair"><div class="phd-meta"><span class="phd-name"><a href="https://laurenbardenhair.com/">Lauren Barden-Hair</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Corporate Double Takes: When Firms Agree To Conduct Foreign Security Policy</span></div></div>
-
-<div class="phd-card"><img src="/images/students/Li.jpg" alt="Donghui Li"><div class="phd-meta"><span class="phd-name">Donghui Li</span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Hedging between International Democratic Promotion and International Autocratic Sponsorship</span></div></div>
+<div class="phd-card"><img src="/images/students/Bonaventura.jpg" alt="Leo Di Bonaventura"><div class="phd-meta"><span class="phd-name"><a href="https://polisci.berkeley.edu/people/person/leo-di-bonaventura">Leo Di Bonaventura</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span></div></div>
 
 <div class="phd-card"><img src="/images/students/Cohen.png" alt="Shira Cohen"><div class="phd-meta"><span class="phd-name">Shira Cohen</span><br><span class="phd-role">Dissertation Committee Member, University of California, Berkeley</span></div></div>
 
-<div class="phd-card"><img src="/images/profile.png" alt="Leo Di Bonaventura"><div class="phd-meta"><span class="phd-name">Leo Di Bonaventura</span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span></div></div>
+<div class="phd-card"><img src="/images/students/Li.jpg" alt="Donghui Li"><div class="phd-meta"><span class="phd-name">Donghui Li</span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Hedging between International Democratic Promotion and International Autocratic Sponsorship</span></div></div>
 
-<div class="phd-card"><img src="/images/profile.png" alt="Rekai Rusinga"><div class="phd-meta"><span class="phd-name">Rekai Rusinga</span><br><span class="phd-role">Dissertation Committee Member, University of California, Davis</span></div></div>
+<div class="phd-card"><img src="/images/students/Barden-Hair.jpg" alt="Lauren Barden-Hair"><div class="phd-meta"><span class="phd-name"><a href="https://laurenbardenhair.com/">Lauren Barden-Hair</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Corporate Double Takes: When Firms Agree To Conduct Foreign Security Policy</span></div></div>
+
+<div class="phd-card"><img src="/images/students/Barker.jpg" alt="Jennie Barker"><div class="phd-meta"><span class="phd-name"><a href="https://iis.berkeley.edu/people/jennie-barker">Jennie Barker</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Standing Up for Democracy? Democracy Promotion under Emerging Multipolarity</span></div></div>
+
+<div class="phd-card"><img src="/images/students/Braley.jpg" alt="Alia Braley"><div class="phd-meta"><span class="phd-name"><a href="https://www.aliabraley.net/">Alia Braley</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Berkeley</span></div></div>
+
+<div class="phd-card"><img src="/images/students/Stephenson.jpg" alt="Alexander Stephenson"><div class="phd-meta"><span class="phd-name"><a href="https://www.alexstephenson.me/">Alexander Stephenson</a></span><br><span class="phd-role">Dissertation Committee Co-Chair, University of California, Berkeley</span><br><span class="phd-diss">Essays on Police Reform</span></div></div>
 
 </div>
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I study threats to democracy, the role of regime type in international affairs, and international influences on the domestic politics of sovereign states. My research spans election observation, election fraud, and democracy promotion.
+I study threats to democracy, the role of regime type in international affairs, and international influences on the domestic politics of sovereign states. My research spans election observation, election fraud, democracy promotion, and international norms.
 
 [**Book office hours** (UC Berkeley students)](https://calendar.app.google/UjP8Q53UPyMX7Lyj6){: .btn .btn--primary}
 

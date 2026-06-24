@@ -32,8 +32,6 @@ author_profile: true
 
 <div class="phd-card"><img src="/images/students/Barden-Hair.jpg" alt="Lauren Barden-Hair"><div class="phd-meta"><span class="phd-name"><a href="https://laurenbardenhair.com/">Lauren Barden-Hair</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Corporate Double Takes: When Firms Agree To Conduct Foreign Security Policy</span></div></div>
 
-<div class="phd-card"><img src="/images/students/Barker.jpg" alt="Jennie Barker"><div class="phd-meta"><span class="phd-name"><a href="https://iis.berkeley.edu/people/jennie-barker">Jennie Barker</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Standing Up for Democracy? Democracy Promotion under Emerging Multipolarity</span></div></div>
-
 <div class="phd-card"><img src="/images/students/Braley.jpg" alt="Alia Braley"><div class="phd-meta"><span class="phd-name"><a href="https://www.aliabraley.net/">Alia Braley</a></span><br><span class="phd-role">Dissertation Committee Member, University of California, Berkeley</span></div></div>
 
 <div class="phd-card"><img src="/images/students/Stephenson.jpg" alt="Alexander Stephenson"><div class="phd-meta"><span class="phd-name"><a href="https://www.alexstephenson.me/">Alexander Stephenson</a></span><br><span class="phd-role">Dissertation Committee Co-Chair, University of California, Berkeley</span><br><span class="phd-diss">Essays on Police Reform</span></div></div>
@@ -43,6 +41,8 @@ author_profile: true
 ## Former PhD Students
 
 <div class="phd-grid">
+
+<div class="phd-card"><img src="/images/students/Barker.jpg" alt="Jennie Barker"><div class="phd-meta"><span class="phd-name">Dr. <a href="https://iis.berkeley.edu/people/jennie-barker">Jennie Barker</a></span><br><span class="phd-role">Dissertation Committee Chair, University of California, Berkeley</span><br><span class="phd-diss">Standing Up for Democracy? Democracy Promotion under Emerging Multipolarity</span></div></div>
 
 <div class="phd-card"><img src="/images/students/Blinkinsop.jpg" alt="Andrew Blinkinsop"><div class="phd-meta"><span class="phd-name">Dr. Andrew Blinkinsop</span><br><span class="phd-role">Dissertation Committee Co-Chair, University of California, Berkeley</span><br><span class="phd-diss">The Limits of Elite Influence on Public Opinion of Foreign Policy</span></div></div>
 
@@ -82,8 +82,8 @@ author_profile: true
 
 <div class="phd-card"><img src="/images/students/Pallister.jpg" alt="Kevin Pallister"><div class="phd-meta"><span class="phd-name">Dr. <a href="https://sites.google.com/site/kevinpallister/home">Kevin Pallister</a></span><br><span class="phd-role">Dissertation Committee Member, University of Massachusetts, Amherst (2013)</span><br><span class="phd-diss">Bringing the Ballot Box to the People: Election Administration and the Origins of Inclusive Voting Practices</span></div></div>
 
-<div class="phd-card"><img src="/images/students/Lagunes.jpg" alt="Paul Lagunes"><div class="phd-meta"><span class="phd-name">Dr. Paul Lagunes</span><br><span class="phd-role">Dissertation Committee Member, Yale University (2012)</span><br><span class="phd-diss">Monitoring as a Democratic Imperative: A Study on Corruption and Accountability in Mexico</span></div></div>
+<div class="phd-card"><img src="/images/students/Lagunes.jpg" alt="Paul Lagunes"><div class="phd-meta"><span class="phd-name">Dr. <a href="https://scholar.google.com/citations?user=XWRS8cUAAAAJ&hl=en">Paul Lagunes</a></span><br><span class="phd-role">Dissertation Committee Member, Yale University (2012)</span><br><span class="phd-diss">Monitoring as a Democratic Imperative: A Study on Corruption and Accountability in Mexico</span></div></div>
 
-<div class="phd-card"><img src="/images/students/Cloward.jpg" alt="Karisa Cloward"><div class="phd-meta"><span class="phd-name">Dr. Karisa Cloward</span><br><span class="phd-role">Dissertation Committee Member, Yale University (2010)</span><br><span class="phd-diss">When Norms Collide: Micro-Level Responses to the Transnational Campaign Against Gender-Based Violence</span></div></div>
+<div class="phd-card"><img src="/images/students/Cloward.jpg" alt="Karisa Cloward"><div class="phd-meta"><span class="phd-name">Dr. <a href="https://www.smu.edu/dedman/academics/departments/political-science/people/faculty/karisacloward">Karisa Cloward</a></span><br><span class="phd-role">Dissertation Committee Member, Yale University (2010)</span><br><span class="phd-diss">When Norms Collide: Micro-Level Responses to the Transnational Campaign Against Gender-Based Violence</span></div></div>
 
 </div>

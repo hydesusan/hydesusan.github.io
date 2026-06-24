@@ -4,15 +4,15 @@ title: "Contact"
 author_profile: true
 ---
 
-**Susan D. Hyde**
-Kernan Robson Professor of Political Science
-Travers Department of Political Science
+**Susan D. Hyde**<br>
+Kernan Robson Professor of Political Science<br>
+Travers Department of Political Science<br>
 University of California, Berkeley
 
-210 Social Science Building #1950
+210 Social Science Building #1950<br>
 Berkeley, CA 94720-1950
 
-Email: [susanhyde@berkeley.edu](mailto:susanhyde@berkeley.edu)
+Email: [susanhyde@berkeley.edu](mailto:susanhyde@berkeley.edu)<br>
 Phone: (510) 642-4643
 
 ## Letters of Recommendation

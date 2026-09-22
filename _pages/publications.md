@@ -29,7 +29,7 @@ For the most complete and current list, see my [Google Scholar profile](https://
 ## Peer-Reviewed Articles
 
 <ul class="pub-list">
-<li><a href="https://doi.org/10.1111/ajps.70095"><strong>Can Citizen Election Observation Increase Public Confidence in U.S. Elections?</strong></a>, with Jennie Barker and Oren Samet. <em>American Journal of Political Science</em>, forthcoming.</li>
+<li><strong>Can Citizen Election Observation Increase Public Confidence in U.S. Elections?</strong>, with Jennie Barker and Oren Samet. <em>American Journal of Political Science</em>, forthcoming.</li>
 <li><a href="https://doi.org/10.1017/S0020818325101161"><strong>The Unconstrained Future of World Order: The Assault on Democratic Constraint and Implications for US Global Leadership</strong></a>, with Elizabeth N. Saunders. <em>International Organization</em> 79:S1 (2025): S71–S87.</li>
 <li><a href="https://doi.org/10.1177/00104140221139387"><strong>Promoting Democracy Under Electoral Authoritarianism: Evidence from Cambodia</strong></a>, with Oren Samet and Emily Lamb. <em>Comparative Political Studies</em> 56:7 (2023): 1029–1071.</li>
 <li><a href="https://doi.org/10.1093/isr/viad019"><strong>The Forum: Global Challenges to Democracy? Perspectives on Democratic Backsliding</strong></a>, with Larry M. Bartels, Ursula E. Daxecker, Staffan I. Lindberg, and Irfan Nooruddin. <em>International Studies Review</em> 25:2 (2023).</li>
